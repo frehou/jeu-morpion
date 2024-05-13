@@ -1,0 +1,72 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+#anch {
+	-fx-background-color: #233444;
+}
+#grid .button {
+    -fx-background-color: #4d738b; /* Couleur de fond */
+    -fx-border-radius: 2; /* Rayon des coins pour la bordure */
+    -fx-border-color: #233444; /* Couleur de la bordure */
+    -fx-border-width: 2px;
+    -fx-background-radius: 2; /* Rayon des coins */
+    -fx-padding: 18px;
+    -fx-font-size: 55px;
+}
+
+#commence {
+	-fx-background-color: #4d738b; /* Couleur de fond */
+}
+
+#human {
+	-fx-background-color: #4d738b; /* Couleur de fond */
+	-fx-border-radius: 10;
+	-fx-border-width: 5px;
+}
+
+#ai {
+	-fx-background-color: #4d738b; /* Couleur de fond */
+	-fx-border-radius: 10;
+}
+#bar{
+	-fx-background-color: #4d738b; /* Couleur de fond */
+}
+#save {
+	-fx-background-color: #4d738b; /* Couleur de fond */
+	-fx-border-radius: 10;
+}
+
+#retour{
+	-fx-background-color: #4d738b; /* Couleur de fond */
+	-fx-border-radius: 10;
+}
+
+#replay{
+	-fx-background-color: #4d738b; /* Couleur de fond */
+	-fx-border-radius: 10;
+}
+
+#facile{
+	-fx-background-color: #4d738b; /* Couleur de fond */
+	-fx-border-radius: 10;
+}
+
+#moyen{
+	-fx-background-color: #4d738b; /* Couleur de fond */
+	-fx-border-radius: 10;
+}
+
+
+#difficile{
+	-fx-background-color: #4d738b; /* Couleur de fond */
+	-fx-border-radius: 10;
+}
+
+#back{
+	-fx-background-color: #4d738b; /* Couleur de fond */
+	-fx-border-radius: 10;
+}
+
+#Apprentissage{
+	-fx-background-color: #4d738b; /* Couleur de fond */
+	-fx-border-radius: 10;
+	
+}
